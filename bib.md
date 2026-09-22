@@ -1,0 +1,16 @@
+Bijker, R., Merkouris, S. S., Dowling, N. A., & Rodda, S. N. (2024). ChatGPT for automated qualitative research: Content analysis. Journal of Medical Internet Research, 26(1), e59050. https://doi.org/10.2196/59050
+Blondeel, E., Everaert, P., & Opdecam, E. (2025). A practical guide to implementing ChatGPT as a secondary coder in qualitative research. International Journal of Accounting Information Systems. https://doi.org/10.1016/j.accinf.2025.100754
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3(2), 77–101. https://doi.org/10.1191/1478088706qp063oa 
+Braun, V., & Clarke, V. (2021). Thematic analysis: A practical guide. SAGE. 
+Cilesiz, S., & Greckhamer, T. (2022). Methodological socialization and identity: A bricolage study of pathways toward qualitative research in doctoral education. Organizational Research Methods, 25(2), 337–370. https://doi.org/10.1177/1094428120980047 
+Dasgupta, A., Ghosh, D., McCullers, A., Williams, B. R., Clark, E. M., Schootman, M., Park, C. L., He, X., & Knott, C. L. (2026). Integrating artificial intelligence with manual coding of qualitative data: Opportunities and challenges. The Professional Geographer, 0b(0), 1–11. https://doi.org/10.1080/00330124.2026.2636573
+De Paoli, S. (2024). Further explorations on the use of large language models for thematic analysis. Open-ended prompts, better terminologies and thematic maps. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research, 25(3), Article 3. https://doi.org/10.17169/fqs-25.3.4196
+Glaser, B. G., & Strauss, A. L. (1967). The discovery of grounded theory: Strategies for qualitative research. Routledge.
+Greckhamer, T., & Koro‐Ljungberg, M. (2005). The erosion of a method: Examples from grounded theory. International Journal of Qualitative Studies in Education, 18(6), 729–750. https://doi.org/10.1080/09518390500298204 
+Hayes, A. S. (2025). “Conversing” with qualitative data: Enhancing qualitative research through large language models (LLMs). International Journal of Qualitative Methods, 24, 1–19. https://doi.org/10.1177/16094069251322346
+Matta, C. (2022). Philosophical paradigms in qualitative research methods education: What is their pedagogical role? Scandinavian Journal of Educational Research, 66(6), 1049–1062. https://doi.org/10.1080/00313831.2021.1958372 
+Richards, L., & Morse, J. M. (2013). Readme first for a user’s guide to qualitative methods (3rd ed.). SAGE 
+Schmieder, C. (2020). Qualitative data analysis software as a tool for teaching analytic practice: Towards a theoretical framework for integrating QDAS into methods pedagogy. Qualitative Research, 20(5), 684–702. https://doi.org/10.1177/1468794119891846 
+Small, M. L. (2021). What is “qualitative” in qualitative research? Why the answer does not matter but the question is important. Qualitative Sociology, 44, 567–574. https://doi.org/10.1007/s11133-021-09501-3 
+Small, M. L., & Calarco, J. M. (2022). Qualitative literacy: A guide to evaluating ethnographic and interview research. University of California Press. 
+Swaminathan, R., & Mulvihill, T. M. (2018). Teaching qualitative research: Strategies for engaging emerging scholars. Guilford Publications.
